@@ -10,19 +10,20 @@
 - 📚 **Currently Learning:** Java Servlet, Spring Boot, JavaScript , frameworks, and JDBC 
 
 ## ⚙️ Tech Stack  
-- **Backend:** Java Servlet, PHP, Python  
-- **Frontend:** JavaScript (React, Vue), HTML, CSS  
-- **Database:** MySQL  
-- **Version Control:** Git & GitHub  
-- **Other:** REST APIs, JSON, XML
-- ## 🔥 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🔥 Tech Stack
+
+![Programming Languages Pie Chart](https://your-image-link.com/pie-chart.png)
+
+
 
 
 ## 📌 Current Projects  
