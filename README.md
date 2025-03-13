@@ -29,10 +29,10 @@ I'm interested in contributing to:
 ✅ Any impactful open-source initiatives 
 
 ## 📫 Let's Connect!  
-💻 **Portfolio:** []  
+
 📧 **Email:** ituzeebedi12@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
-🌍 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+🔗 **LinkedIn:** [LinkedIn ](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
+ 
 
 ⚡ *"Turning ideas into impactful solutions!"*  
 ## My  Motivational Quotes
