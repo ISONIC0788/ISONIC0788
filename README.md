@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Ebedi Meleck!  
 
-<!--
-**ISONIC0788/ISONIC0788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Student & Software Developer**  
+💡 Passionate about problem-solving, innovation, and building impactful technology solutions.  
+📍 Based in Rwanda | Open to collaborations and exciting projects.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🖥️ Skilled in **Java, c ,JavaScript ,PHP Python, C++, and relation Database Management**  
+- 🔧 Working on a **Driver Trip Log System** for Rwanda Polytechnic Karongi College  
+- 👥 Passionate about **helping fresh graduates, freelancers, and students** gain real-world experience  
+- 🏆 Preparing for an **innovation competition** with a project that connects job seekers with employers  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects  
+🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
+
+ 
+
+## 📫 Let's Connect!  
+💻 **Portfolio:** [Coming Soon]  
+📧 **Email:** ituzeebedi12@gmail.com  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
+🌍 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+
+⚡ *"Turning ideas into impactful solutions!"*  
+
