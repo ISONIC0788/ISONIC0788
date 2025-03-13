@@ -35,6 +35,6 @@ I'm interested in contributing to:
 ⚡ *"Turning ideas into impactful solutions!"*  
 ## My  Motivational Quotes
 >  "First, solve the problem. Then, write the code." – John Johnson
-> 🛠 "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
+> "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
 
 
