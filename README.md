@@ -19,13 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔥 Tech Stack
-
-![Programming Languages Pie Chart](https://your-image-link.com/pie-chart.png)
-
-
-
-
 ## 📌 Current Projects  
 🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
 
