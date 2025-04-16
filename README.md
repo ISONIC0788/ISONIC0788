@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Ebedi Meleck!  
 
 🎓 **IT Student & Software Developer**  
-💡 Passionate about problem-solving, innovation, and building impactful technology solutions.  
-📍 Based in Rwanda | Open to collaborations and exciting projects.  
+💡 Passionate about problem-solving, innovation, and building impactful technology solutions. Based in Rwanda | Open to collaborations and exciting projects.|I'm interested in contributing to Web and mobile applications | Any impactful open-source initiatives  
 
 ## 🚀 About Me  
 - 🖥️ Skilled in **Java, C, JavaScript, PHP, Python, C++, and Relational Database Management**  
@@ -50,13 +49,7 @@
 ## 📌 Current Projects  
 🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
 
-## 🤝 Open Source Contributions  
-I'm interested in contributing to:  
-✅ Software development tools    
-✅ Web and mobile applications  
-✅ Any impactful open-source initiatives  
 
----
 
 ## 📊 GitHub Stats
 
@@ -68,17 +61,11 @@ I'm interested in contributing to:
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=github-compact)
 
 
----
-
 ## 📫 Let's Connect!  
 
 📧 **Email:** ituzeebedi12@gmail.com  
-🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
-
+🔗 **LinkedIn:** [ITUZE Agacyo Ebedi Meleck](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
 ⚡ *"Turning ideas into impactful solutions!"*  
-
----
-
 ## 💬 My Motivational Quotes  
 > "First, solve the problem. Then, write the code." – John Johnson  
 > "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine  
