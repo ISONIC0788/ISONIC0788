@@ -54,14 +54,9 @@
 ## 📌 Current Projects  
 🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
 
-
-
 ## 📊 GitHub Stats
 
 ![Ebedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISONIC0788&layout=compact&theme=radical)
-
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=github-compact)
 
