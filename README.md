@@ -5,9 +5,9 @@
 📍 Based in Rwanda | Open to collaborations and exciting projects.  
 
 ## 🚀 About Me  
-- 🖥️ Skilled in **Java, c ,JavaScript ,PHP Python, C++, and relation Database Management**  
-- 🔧 Working on a **Driver Trip Log System** for Rwanda Polytechnic Karongi College
-- 📚 **Currently Learning:** Java Servlet, Spring Boot, JavaScript , frameworks, and JDBC 
+- 🖥️ Skilled in **Java, C, JavaScript, PHP, Python, C++, and Relational Database Management**  
+- 🔧 Working on a **Driver Trip Log System** for Rwanda Polytechnic Karongi College  
+- 📚 **Currently Learning:** Java Servlet, Spring Boot, JavaScript frameworks, and JDBC  
 
 ## ⚙️ Tech Stack  
 
@@ -23,8 +23,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-
-
 ## 📌 Current Projects  
 🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
 
@@ -32,17 +30,31 @@
 I'm interested in contributing to:  
 ✅ Software development tools    
 ✅ Web and mobile applications  
-✅ Any impactful open-source initiatives 
+✅ Any impactful open-source initiatives  
+
+---
+
+## 📊 GitHub Stats
+
+![Ebedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbediMeleck&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbediMeleck&layout=compact&theme=radical)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=EbediMeleck&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=EbediMeleck&theme=github-compact)
+
+---
 
 ## 📫 Let's Connect!  
 
 📧 **Email:** ituzeebedi12@gmail.com  
-🔗 **LinkedIn:** [LinkedIn ](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
- 
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
 
 ⚡ *"Turning ideas into impactful solutions!"*  
-## My  Motivational Quotes
->  "First, solve the problem. Then, write the code." – John Johnson  <br>
-> "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
 
+---
 
+## 💬 My Motivational Quotes  
+> "First, solve the problem. Then, write the code." – John Johnson  
+> "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine  
