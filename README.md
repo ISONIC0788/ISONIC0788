@@ -5,7 +5,7 @@
 
  
 
-🎓 **IT Student & Software Developer**  
+🎓 **IT Student & Software enginner**  
 💡 Passionate about problem-solving, innovation, and building impactful technology solutions. Based in Rwanda | Open to collaborations and exciting projects.|I'm interested in contributing to Web and mobile applications | Any impactful open-source initiatives  
 
 ## 🚀 About Me  
