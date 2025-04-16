@@ -64,7 +64,6 @@ I'm interested in contributing to:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISONIC0788&layout=compact&theme=radical)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=github-compact)
 
