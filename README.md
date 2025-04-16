@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Ebedi Meleck!  
+# 👋![Hi](https://img.shields.io/badge/Hi_there!-I'm_Ebedi_Meleck-purple?style=for-the-badge)
+ 
 
 🎓 **IT Student & Software Developer**  
 💡 Passionate about problem-solving, innovation, and building impactful technology solutions. Based in Rwanda | Open to collaborations and exciting projects.|I'm interested in contributing to Web and mobile applications | Any impactful open-source initiatives  
