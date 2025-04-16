@@ -9,8 +9,6 @@
 💡 Passionate about problem-solving, innovation, and building impactful technology solutions. Based in Rwanda | Open to collaborations and exciting projects.|I'm interested in contributing to Web and mobile applications | Any impactful open-source initiatives  
 
 ## 🚀 About Me  
-- 🖥️ Skilled in **Java, C, JavaScript, PHP, Python, C++, and Relational Database Management**  
-- 🔧 Working on a **Driver Trip Log System** for Rwanda Polytechnic Karongi College  
 - 📚 **Currently Learning:** Java Servlet, Spring Boot, JavaScript frameworks, and JDBC  
 
 <h3 align="center">Languages and Tools:</h3>
@@ -38,9 +36,6 @@
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
