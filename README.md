@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+My+name+is+Ituze+Agacyo+Ebedi+Meleck" alt="Typing SVG" />
+ ✌️🙋‍♂️🙋‍♂️HI <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+My+name+is+Ituze+Agacyo+Ebedi+Meleck" alt="Typing SVG" />
 </p>
 
  
