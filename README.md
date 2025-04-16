@@ -1,4 +1,5 @@
-# 👋![Hi](https://img.shields.io/badge/Hi_there!-I'm_Ebedi_Meleck-purple?style=for-the-badge)
+# 👋![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi+there!+My+name+is+Ituze+Agacyo+Ebedi+Meleck)
+
  
 
 🎓 **IT Student & Software Developer**  
