@@ -36,13 +36,14 @@ I'm interested in contributing to:
 
 ## 📊 GitHub Stats
 
-![Ebedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbediMeleck&show_icons=true&theme=radical&count_private=true)
+![Ebedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbediMeleck&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ISONIC0788&layout=compact&theme=radical)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=EbediMeleck&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=EbediMeleck&theme=github-compact)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=github-compact)
+
 
 ---
 
