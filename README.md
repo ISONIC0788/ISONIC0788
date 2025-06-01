@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ebedi+Meleck;IT+Student+%26+Software+Engineer;CTO+of+Ebyte+Code+Labs;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-🎓 **IT Student & Software Engineer** | 👨‍💻 **CTO of Ebyte Code Labs**  
+🎓 **IT Student & Software Engineer** | 👨‍💻  
 💡 Passionate about problem-solving, innovation, and building impactful technology solutions.  
 📍 Based in Rwanda | 🤝 Open to collaborations and exciting projects.  
 🌍 Interested in contributing to Web and Mobile applications and impactful open-source initiatives.
