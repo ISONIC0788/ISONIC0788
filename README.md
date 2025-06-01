@@ -49,10 +49,17 @@
 
 ## 📊 GitHub Stats
 
-![Ebedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&count_private=true" alt="Ebedi's GitHub Stats"/>
+</p>
 
-<!-- Pie-style language breakdown via WakaTime -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISONIC0788&layout=pie&theme=radical" alt="Top Languages Pie Chart"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
 
 ## 📫 Let's Connect!  
 
