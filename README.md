@@ -2,11 +2,10 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ebedi+Meleck;IT+Student+%26+Software+engineer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-
- 
-
 🎓 **IT Student & Software engineer**  
-💡 Passionate about problem-solving, innovation, and building impactful technology solutions. Based in Rwanda | Open to collaborations and exciting projects.|I'm interested in contributing to Web and mobile applications | Any impactful open-source initiatives  
+💡 Passionate about problem-solving, innovation, and building impactful technology solutions.  
+📍 Based in Rwanda | 🤝 Open to collaborations and exciting projects.  
+🌍 Interested in contributing to Web and Mobile applications and impactful open-source initiatives.
 
 ## 🚀 About Me  
 - 📚 **Currently Learning:** Java Servlet, Spring Boot, JavaScript frameworks, and JDBC  
@@ -45,7 +44,6 @@
   </a>
 </p>
 
-
 ## 📌 Current Projects  
 🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
 
@@ -53,14 +51,15 @@
 
 ![Ebedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&count_private=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=github-compact)
-
+<!-- Pie-style language breakdown via WakaTime -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!  
 
 📧 **Email:** ituzeebedi12@gmail.com  
 🔗 **LinkedIn:** [ITUZE Agacyo Ebedi Meleck](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
 ⚡ *"Turning ideas into impactful solutions!"*  
+
 ## 💬 My Motivational Quotes  
 > "First, solve the problem. Then, write the code." – John Johnson  
 > "Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine  
