@@ -56,9 +56,6 @@
   </a>
 </p>
 
-## 📌 Current Projects  
-🔹 **Driver Trip Log System** – Automating vehicle trip records 📊  
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -69,10 +66,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=radical&no-bg=true&margin-w=10" alt="Trophies">
-</p>
+
 
 ## 📫 Let's Connect!  
 
