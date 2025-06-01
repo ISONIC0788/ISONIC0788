@@ -1,8 +1,8 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ebedi+Meleck;IT+Student+%26+Software+engineer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ebedi+Meleck;IT+Student+%26+Software+Engineer;CTO+of+Ebyte+Code+Labs;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-🎓 **IT Student & Software engineer**  
+🎓 **IT Student & Software Engineer** | 👨‍💻 **CTO of Ebyte Code Labs**  
 💡 Passionate about problem-solving, innovation, and building impactful technology solutions.  
 📍 Based in Rwanda | 🤝 Open to collaborations and exciting projects.  
 🌍 Interested in contributing to Web and Mobile applications and impactful open-source initiatives.
@@ -30,6 +30,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -41,6 +47,12 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
@@ -54,11 +66,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISONIC0788&layout=pie&theme=radical" alt="Top Languages Pie Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=radical&no-bg=true&margin-w=10" alt="Trophies">
 </p>
 
 ## 📫 Let's Connect!  
