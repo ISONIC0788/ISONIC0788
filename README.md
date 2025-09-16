@@ -2,19 +2,23 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ebedi+Meleck;IT+Student+%26+Software+Engineer;CTO+of+Ebyte+Code+Labs;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ISONIC0788&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
 # 🎓 IT Student & Software Engineer  
 
- Passionate about **problem-solving**, **innovation**, and building **impactful technology solutions**.  
- Based in **Rwanda** |  Open to collaborations and exciting projects.  
- Interested in contributing to **Web & Mobile applications** and impactful **open-source initiatives**.  
+💡 Passionate about **problem-solving**, **innovation**, and building **impactful technology solutions**.  
+📍 Based in **Rwanda** | 🤝 Open to collaborations and exciting projects.  
+🌍 Interested in contributing to **Web & Mobile applications** and impactful **open-source initiatives**.  
 
-
+---
 
 ## 🚀 About Me  
 - 📚 **Currently Learning:** Java Servlet, Spring Boot, JavaScript frameworks, and JDBC  
 - ⚡ I love exploring new technologies and turning ideas into **real-world solutions**.  
 
-
+---
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
@@ -37,7 +41,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats  
 
@@ -49,7 +53,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
-
+---
 
 ## 📫 Let's Connect!  
 
@@ -58,7 +62,7 @@
 
 ⚡ *"Turning ideas into impactful solutions!"*  
 
-
+---
 
 ## 💬 My Motivational Quotes  
 
