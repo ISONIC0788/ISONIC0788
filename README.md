@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 
