@@ -43,8 +43,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github.com/ISONIC0788/ISONIC0788/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
 
 
 
