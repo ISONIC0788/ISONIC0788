@@ -42,15 +42,12 @@
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&token=YOURTOKEN" alt="Ebedi's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISONIC0788&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
