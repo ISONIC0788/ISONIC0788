@@ -47,15 +47,18 @@
 
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-</p>
+<
 
 
 
