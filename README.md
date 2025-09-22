@@ -41,6 +41,10 @@
 
 
 ## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ISONIC0788&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&hide_border=true)
+
 
 
 <p align="center">
