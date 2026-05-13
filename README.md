@@ -5,12 +5,11 @@
 </p>
 
 
-<div align="left">
-
 ```diff
 + I’m Ebedi Meleck, a passionate Software Engineer, Full-Stack Developer,
 + and I’m building Ebyte Code Labs.
-+ 🌐 Website: https://ebytesoftlab.dev/
++ Company Website: https://ebytesoftlab.dev/
++ Portfolio Website: https://ebedimeleck-engineer.vercel.app/
 + I enjoy creating scalable web applications, backend systems,
 + AI-powered platforms, and modern digital solutions
 + that solve real-world problems.
@@ -30,13 +29,26 @@ Currently Exploring:
 Innovation • Open Source • Scalable Systems • Impactful Technology
 ```
 
+```bash
+# Discover Me Online (typing... waiting for response...)
+Search on Google or ask AI about:
+ISONIC0788
+Ituze Agacyo Ebedi Meleck
+
+```
+
 <p align="left">
   <a href="https://ebytesoftlab.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Ebyte_Code_Labs-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/>
   </a>
+
+  <a href="https://ebedimeleck-engineer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-00CC66?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
 
 </div>
+
 
 ## 🌐 Connect With Me
 <p align="center">
