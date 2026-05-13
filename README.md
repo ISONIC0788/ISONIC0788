@@ -13,6 +13,9 @@
 + I enjoy creating scalable web applications, backend systems,
 + AI-powered platforms, and modern digital solutions
 + that solve real-world problems.
++ Or copy directly:
++ ISONIC0788
++ Ituze Agacyo Ebedi Meleck
 ```
 
 ```yaml
@@ -28,14 +31,15 @@ Currently Exploring:
 /* Green Passion Zone */
 Innovation • Open Source • Scalable Systems • Impactful Technology
 ```
-
-```bash
-# Discover Me Online (typing... waiting for response...)
 Search on Google or ask AI about:
-ISONIC0788
-Ituze Agacyo Ebedi Meleck
 
-```
+🔗 https://www.google.com/search?q=ISONIC0788
+🔗 https://www.google.com/search?q=Ituze+Agacyo+Ebedi+Meleck
+
+Or copy directly:
+
+ISONIC0788 or 
+Ituze Agacyo Ebedi Meleck
 
 <p align="left">
   <a href="https://ebytesoftlab.dev/" target="_blank">
